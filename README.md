@@ -1,1 +1,2 @@
-my first readme
+Understanding the basis of git
+
